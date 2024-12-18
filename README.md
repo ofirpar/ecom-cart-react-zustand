@@ -36,8 +36,8 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-cart-app.git
-   cd simple-cart-app
+   git clone https://github.com/ofirpar/ecom-cart-react-zustand
+   cd ecom-cart-react-zustand
 2. Install dependencies:
     ```bash
     npm install
