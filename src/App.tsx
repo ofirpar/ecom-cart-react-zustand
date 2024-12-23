@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h1>E-Commerce Cart</h1>
-      <div style={{ display: "flex", justifyContent: "space-around" }}>
+      <div className="main">
         <ProductList />
         <CartSummary />
       </div>
